@@ -38,5 +38,7 @@ To present the contributions made during the trimester, the following deliverabl
 -	A future recommendation with feature suggestions for the future groups to work on the website.
 -	A rundown of all the website backlogs that need to be fixed in the upcoming trimesters.
 
+Manan Mehta (Technical Contributions:Throughout the seven weeks, my technical contributions have been pivotal in advancing our project. In the initial stages, I familiarized myself with project goals, actively participated in meetings, and engaged in upskilling sessions to enhance my proficiency in Django. As the weeks progressed, I continued to deepen my understanding of the project structure while collaborating with the team lead to clarify roles and expectations. In week four marked a significant achievement as I successfully designed and implemented the navigation bar for web pages it wasnt working, ensuring seamless navigation and enhancing user experience through collaboration with team members. Subsequently, I completed frontend development tasks for primary and additional web pages including contact us page, Deakin Threatmirror and CyberSafe VR incorporating feedback and contributing to the GitHub repository. My consistent participation in team meetings and collaboration with peers and mentors have been important in  completion of frontend development tasks for all assigned web pages by week seven.)
+
 
 
